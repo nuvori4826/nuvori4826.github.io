@@ -1,0 +1,6 @@
+title: nuvori
+description: 먹고 마시고 보고 읽고 들은 것들을 내 멋대로 소화시키는 곳
+theme: minima
+lang: ko
+plugins:
+  - jekyll-feed
